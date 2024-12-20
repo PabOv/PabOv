@@ -481,6 +481,10 @@ body {
   }
 }
 
+.certificaciones h2 {
+  text-align: center; /* Centra el texto */
+}
+
 
 /* CONTACTOS */
 
